@@ -16,7 +16,7 @@ For any work related to the analysis of encrypted video traffic, welcome to plea
   pages = {1664–1678},
   numpages = {15},
   publisher = {Association for Computing Machinery},
-  location = {Taipei, **CHINA**},
+  location = {Taipei, CHINA},
   doi = {10.1145/3719027.3744804},
 }
 ```
