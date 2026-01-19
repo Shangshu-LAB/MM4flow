@@ -1,21 +1,15 @@
 # MM4flow
 
-The source code of the paper:  
-_Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis___  
-[Chuanpu Fu](https://www.fuchuanpu.cn/), [Qi Li](https://sites.google.com/site/qili2012), [Meng Shen](https://cs.bit.edu.cn/szdw/jsml/js/shenmeng/index.htm), [Ke Xu](http://www.thucsnet.org/xuke.html).  
-ACM Conference on Computer and Communications Security ([CCS 2021](https://dl.acm.org/doi/10.1145/3460120.3484585))
-
-
 The repository of the paper **MM4flow: A Pre-trained Multi-modal Model for Versatile Network Traffic Analysis**, published in the 32nd ACM Conference on Computer and Communications Security ([CCS'25]()).
+
 Authored by 
-[Luming Yang](https://shangshu-lab.github.io)), 
+[Luming Yang](https://shangshu-lab.github.io), 
 Lin Liu, 
 [Junjie Huang](https://jjhuangcs.github.io), 
 [Zhuotao Liu](https://liuzhuotao.github.io),
 [Shiyu Liang](https://jhc.sjtu.edu.cn/people/members/faculty/shiyu-liang.html),
 Shaojing Fu,
 Yongjun Wang.  
-ACM Conference on Computer and Communications Security ([CCS 2021](https://dl.acm.org/doi/abs/10.1145/3719027.3744804))
 
 <!--The code related to this paper will be open sourced in the future. -->
 
