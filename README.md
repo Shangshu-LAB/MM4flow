@@ -4,12 +4,12 @@ The repository of the paper **MM4flow: A Pre-trained Multi-modal Model for Versa
 
 Authored by 
 [Luming Yang](https://shangshu-lab.github.io), 
-Lin Liu, 
+Lin Liu*, 
 [Junjie Huang](https://jjhuangcs.github.io), 
 [Zhuotao Liu](https://liuzhuotao.github.io),
 [Shiyu Liang](https://jhc.sjtu.edu.cn/people/members/faculty/shiyu-liang.html),
-Shaojing Fu,
-Yongjun Wang.  
+Shaojing Fu*,
+Yongjun Wang*.  
 
 <!--The code related to this paper will be open sourced in the future. -->
 
